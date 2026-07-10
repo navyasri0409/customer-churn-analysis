@@ -142,6 +142,9 @@ DIVIDE(
 # Dashboard Overview
 
 The dashboard is designed using a clean white theme with purple accents to maintain a professional and modern appearance.
+## Dashboard Preview
+
+![Customer Churn Dashboard](dashboard_images/dashboard.png)
 
 ## KPI Cards
 
